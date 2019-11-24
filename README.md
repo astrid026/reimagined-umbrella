@@ -1,6 +1,6 @@
 # reimagined-umbrella
 New
-cara menggunakan
+#cara menggunakan
 http://termux.id/cara-hack-facebook
-tetep terhubung 
+#tetep terhubung 
 htttp://termux.id
